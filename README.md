@@ -24,7 +24,7 @@ RTKNAVI-BH is an open-source, backward-compatible extension of the well-known RT
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/UPC-Pengjinfu/RTKNAVI-BH.git
+    git clone https://github.com/gnsslearner/RTKNAVI-BH.git
 
 2.  **Compile the source code:** Follow the compilation guide in the User Manual (Chapter 4).
 
