@@ -50,7 +50,7 @@ For a detailed list of changes, please search the codebase for the `[RTKNAVI-BH]
 
 ## 📚 Documentation & Resources
 
-- **[User Manual](docs/user_manual.pdf):** Provides a complete guide, including a learning project for configuring real-time PPP.
+- **[User Manual](user_manual.pdf):** Provides a complete guide, including a learning project for configuring real-time PPP.
 
 - **Service ICDs:** For detailed message structures, refer to the official Interface Control Documents for [PPP-B2b](http://en.beidou.gov.cn/) and [Galileo HAS](https://www.gsc-europa.eu/).
 
